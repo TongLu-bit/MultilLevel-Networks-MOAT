@@ -12,4 +12,4 @@ This is a repository that contains codes for the **M**ultilayer netw**o**rk asso
 
 Here is an overview of MOAT. 
 \
-![Image](/SCCN/SCCN_pipeline.png)
+![Image](/pipeline.png)
